@@ -1,1 +1,1 @@
-使用 GitHub Actions 云编译 不含富强6的OpenWrt编译项目。
+使用 GitHub Actions 云编译 不含富强插件的OpenWrt编译项目。
