@@ -16,3 +16,5 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+echo 'src-git mosdns https://github.com/sbwml/luci-app-mosdns' >>feeds.conf.default
+echo 'src-git geodata https://github.com/sbwml/v2ray-geodata' >>feeds.conf.default
